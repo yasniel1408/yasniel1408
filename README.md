@@ -2,7 +2,7 @@
   <a class="site-logo-link" href="https://infsoft.home.blog/">
     <p>
       <img
-        width="290"
+        width="310"
         height="150"
         src="https://infsofthome.files.wordpress.com/2021/06/cropped-blog-logo1-4.png"/>
     </p>
