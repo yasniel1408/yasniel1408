@@ -1,14 +1,3 @@
----
-title: "Github yasniel1408"
-author: "Yasniel Fajardo Egues"
-date: "7/9/2021"
-output: 
-  html_document:
-     css: font-awesome-4.4.0/css/font-awesome.css
-     self_contained: no
-
----
-
 <div align="center" >
   <p>
     <img
