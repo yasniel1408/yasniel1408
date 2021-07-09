@@ -1,8 +1,13 @@
-<style>
-  #grav-238084b03cb4b6fff795f974c6d76d26-0{
-    border-radius: 50%;
-  }
-</style>
+---
+title: "Github yasniel1408"
+author: "Yasniel Fajardo Egues"
+date: "7/9/2021"
+output: 
+  html_document:
+     css: font-awesome-4.4.0/css/font-awesome.css
+     self_contained: no
+
+---
 
 <div align="center" >
   <p>
@@ -99,48 +104,3 @@ good attitude.
     <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2021/02/1_yie_inht8dpbjgaz6iruaq-e1614282858895.jpeg' />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/yasniel1408?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/yasniel1408?label=Followers&logo=GitHub&style=for-the-badge"
-      alt="GitHub badge"
-    />
-  </a>
-  <a href="http://twitter.com/yasnielfajardo">
-    <img
-      src="https://img.shields.io/twitter/follow/yasnielfajardo?label=Twitter&logo=twitter&style=for-the-badge"
-    />
-  </a>
-
-</p>
-
-# ¡Hello! My name is Yasniel Fajardo Egues 👋
-## Computer Engineer, University of Cienfuegos Carlos Rafael Rodríguez, Cuba
- 
-I am a Full Stack Semi Senior Developer in Javascript. I like to create fast web applications with [React](https://es.reactjs.org/) especially on the frontend and Express for the backend, easy to use and built with best practices. I am not perfect but every day I do my best to improve myself as a software engineer.
-
-## SKILLS
-JavaScript, Java, Php
-React, Redux, Node, Express, Laravel, Android Studio, WordPress
-HTML, CSS, Responsive design, Bootstrap, Materialize AJAX, jQuery
-RUP, XP, SCRUM
-MongoDB, PostgreSQL, MySQL, SQLite
-Git, Photoshop.
-
-## SOFT SKILLS
-Willingness to learn, communication,
-solution-oriented thinking, leadership skills,
-adaptability, critical thinking, responsibility,
-accessibility and willingness to help,
-friendly, alignment with vision,
-good attitude.
-
-## Latest published articles
-
-- [Cómo crear un pull requests con forks](https://infsoft.home.blog/2021/07/06/como-crear-un-pull-requests-con-forks/)
-- [React hook form](https://infsoft.home.blog/2021/06/13/react-hook-form/)
-- [React useContext API](infsoft.home.blog/2021/06/08/react-usecontext-api/)
-- [React-Helmet para el SEO](https://infsoft.home.blog/2021/05/30/react-helmet-para-el-seo/)
-- [i18next](infsoft.home.blog/2021/02/25/i18next/)
-
