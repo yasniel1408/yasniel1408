@@ -1,19 +1,19 @@
+
 <div align="center" >
   <p>
     <img
-      width="225"
-      height="120"
+      width="380"
+      height="180"
       src="https://infsofthome.files.wordpress.com/2021/06/cropped-blog-logo1-4.png"/>
   </p>
   <p class="site-logo-link" href="https://infsoft.home.blog/">
     <img
       width="80"
       height="80"
-      src="https://secure.gravatar.com/avatar/238084b03cb4b6fff795f974c6d76d26?s=160&amp;d=identicon&amp;r=g"
-      id="grav-238084b03cb4b6fff795f974c6d76d26-0"
+      src="https://github.com/yasniel1408/yasniel1408/blob/main/perfil.png"
     /> 
   </p>
-  <h2>Yasniel Fajardo Egues</h2>
+  <h1>Yasniel Fajardo Egues</h1>
   <h3>FullStack Web Developer</h3>
 </div>
 
@@ -47,7 +47,7 @@
 
 </p>
 
-# ¡Hello! My name is Yasniel Fajardo Egues 👋
+# ¡Hello! My name is Yasniel Fajardo Egues 👋😃
 ## Computer Engineer, University of Cienfuegos Carlos Rafael Rodríguez, Cuba
  
 I am a Full Stack Semi Senior Developer in Javascript. I like to create fast web applications with [React](https://es.reactjs.org/) especially on the frontend and Express for the backend, easy to use and built with best practices. I am not perfect but every day I do my best to improve myself as a software engineer.
