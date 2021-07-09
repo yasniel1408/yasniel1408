@@ -1,9 +1,8 @@
-
 <div align="center" >
   <p>
     <img
-      width="380"
-      height="180"
+      width="290"
+      height="150"
       src="https://infsofthome.files.wordpress.com/2021/06/cropped-blog-logo1-4.png"/>
   </p>
   <p class="site-logo-link" href="https://infsoft.home.blog/">
@@ -44,23 +43,46 @@
       src="https://img.shields.io/twitter/follow/yasnielfajardo?label=Twitter&logo=twitter&style=for-the-badge"
     />
   </a>
-
+  <a href="https://discord.gg/Z6fazCpH">
+    <img src="https://img.shields.io/discord/756262628333977704?logo=discord&style=for-the-badge" />
+  </a>
+  <a href="https://www.youtube.com/channel/UC6rabpoA7P6eaGs9MFNX7aQ">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC6rabpoA7P6eaGs9MFNX7aQ?label=YouTube&logo=YouTube&style=for-the-badge" />
+  </a>
 </p>
 
 # ¡Hello! My name is Yasniel Fajardo Egues 👋😃
+
 ## Computer Engineer, University of Cienfuegos Carlos Rafael Rodríguez, Cuba
- 
+
 I am a Full Stack Semi Senior Developer in Javascript. I like to create fast web applications with [React](https://es.reactjs.org/) especially on the frontend and Express for the backend, easy to use and built with best practices. I am not perfect but every day I do my best to improve myself as a software engineer.
 
-## SKILLS
-JavaScript, Java, Php
-React, Redux, Node, Express, Laravel, Android Studio, WordPress
-HTML, CSS, Responsive design, Bootstrap, Materialize AJAX, jQuery
-RUP, XP, SCRUM
-MongoDB, PostgreSQL, MySQL, SQLite
-Git, Photoshop.
+<h1>Skills</h1>
+<p align="center">
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_html_icon_130541.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_css_icon_130661.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_logo_icon_146374.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/redux_original_logo_icon_146365.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/sass_original_logo_icon_146350.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/bootstrap_plain_logo_icon_146619.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/jquery_plain_wordmark_logo_icon_146445.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/socketio_logo_icon_169741.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_node_icon_130301.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/expressjs_logo_icon_169185.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_typescript_official_icon_130107.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/555/PNG/128/wordpress_icon-icons.com_53600.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/laravel_plain_logo_icon_146438.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/postgresql_plain_wordmark_logo_icon_146390.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mysql_original_wordmark_logo_icon_146417.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_sqlite_icon_130153.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_git_icon_130581.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/heroku_icon_130912.png" />
+    <img width="40px" src="https://assets.pipedream.net/s.v0/app_1xohRm/logo/orig" />
+</p>
 
-## SOFT SKILLS
+<h1>Soft Skills</h1>
 Willingness to learn, communication,
 solution-oriented thinking, leadership skills,
 adaptability, critical thinking, responsibility,
@@ -68,7 +90,7 @@ accessibility and willingness to help,
 friendly, alignment with vision,
 good attitude.
 
-## Latest published articles
+<h1>Latest published articles</h1>
 
 - [Cómo crear un pull requests con forks](https://infsoft.home.blog/2021/07/06/como-crear-un-pull-requests-con-forks/)
 - [React hook form](https://infsoft.home.blog/2021/06/13/react-hook-form/)
@@ -92,4 +114,9 @@ good attitude.
   <a href='https://infsoft.home.blog/2021/02/25/i18next/' target='_blank'>
     <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2021/02/1_yie_inht8dpbjgaz6iruaq-e1614282858895.jpeg' />
   </a>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yasniel1408&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yasniel1408&theme=tokyonight" />
 </p>
