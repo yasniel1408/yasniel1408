@@ -1,17 +1,17 @@
 <div align="center" >
-  <p>
-    <img
-      width="290"
-      height="150"
-      src="https://infsofthome.files.wordpress.com/2021/06/cropped-blog-logo1-4.png"/>
-  </p>
-  <p class="site-logo-link" href="https://infsoft.home.blog/">
-    <img
-      width="80"
-      height="80"
-      src="https://github.com/yasniel1408/yasniel1408/blob/main/perfil.png"
-    /> 
-  </p>
+  <a class="site-logo-link" href="https://infsoft.home.blog/">
+    <p>
+      <img
+        width="290"
+        height="150"
+        src="https://infsofthome.files.wordpress.com/2021/06/cropped-blog-logo1-4.png"/>
+    </p>
+      <img
+        width="80"
+        height="80"
+        src="https://github.com/yasniel1408/yasniel1408/blob/main/perfil.png"
+      /> 
+  </a>
   <h1>Yasniel Fajardo Egues</h1>
   <h3>FullStack Web Developer</h3>
 </div>
