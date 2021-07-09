@@ -3,8 +3,8 @@
     <p>
       <img
         width="310"
-        height="150"
-        src="https://infsofthome.files.wordpress.com/2021/06/cropped-blog-logo1-4.png"/>
+        height="65"
+        src="https://github.com/yasniel1408/yasniel1408/blob/main/logot.png"/>
     </p>
       <img
         width="80"
