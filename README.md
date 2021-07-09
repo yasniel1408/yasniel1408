@@ -13,7 +13,7 @@
       /> 
   </a>
   <h1>Yasniel Fajardo Egues</h1>
-  <h3>FullStack Web Developer</h3>
+  <h3>FullStack Web Developer 👩🏻‍💻</h3>
 </div>
 
 <p align="center">
