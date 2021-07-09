@@ -1,4 +1,4 @@
-![github-hero](https://infsofthome.files.wordpress.com/2021/06/cropped-blog-logo1-4.png)
+//![github-hero](https://infsofthome.files.wordpress.com/2021/06/cropped-blog-logo1-4.png)
 
 
 ### Hi there 👋
