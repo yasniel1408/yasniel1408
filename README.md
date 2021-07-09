@@ -53,7 +53,7 @@
 
 # ¡Hello! My name is Yasniel Fajardo Egues 👋😃
 
-## Computer Engineer, University of Cienfuegos Carlos Rafael Rodríguez, Cuba
+## Computer Engineer, University of Cienfuegos Carlos Rafael Rodríguez, Cuba (2014-2019)
 
 I am a Full Stack Semi Senior Developer in Javascript. I like to create fast web applications with [React](https://es.reactjs.org/) especially on the frontend and Express for the backend, easy to use and built with best practices. I am not perfect but every day I do my best to improve myself as a software engineer.
 
