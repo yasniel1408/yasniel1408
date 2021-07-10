@@ -99,10 +99,25 @@ good attitude.
 - [React-Helmet para el SEO](https://infsoft.home.blog/2021/05/30/react-helmet-para-el-seo/)
 - [i18next](infsoft.home.blog/2021/02/25/i18next/)
 
-
+<!-- <p align="center">
+  <a href='https://infsoft.home.blog/2021/07/06/como-crear-un-pull-requests-con-forks/' target='_blank'>
+    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2021/06/images.png' />
+  </a>
+  <a href='https://infsoft.home.blog/2021/06/13/react-hook-form/' target='_blank'>
+    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2021/06/descarga-1.png'/>
+  </a>
+  <a href='https://infsoft.home.blog/2021/06/08/react-usecontext-api/' target='_blank'>
+    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2021/06/descarga.png'/>
+  </a>
+  <a href='https://infsoft.home.blog/2021/05/30/react-helmet-para-el-seo/' target='_blank'>
+    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2021/05/1_bunljycxx8utkmkigewhqw-1.jpeg'/>
+  </a>
+  <a href='https://infsoft.home.blog/2021/02/25/i18next/' target='_blank'>
+    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2021/02/1_yie_inht8dpbjgaz6iruaq-e1614282858895.jpeg' />
+  </a>
+</p> -->
 
 <p align="center">
-  
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yasniel1408&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yasniel1408&theme=tokyonight" />
 </p>
