@@ -51,7 +51,7 @@
   </a>
 </p>
 
-# ¡Hello! My name is Yasniel Fajardo Egues 👋😃
+# ¡Hello! My name is Yasniel Fajardo Egues <img width="40" height="30" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" />😃
 
 ## Computer Engineer, University of Cienfuegos Carlos Rafael Rodríguez, Cuba (2014-2019)
 
