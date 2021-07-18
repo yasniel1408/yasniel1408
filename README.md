@@ -12,25 +12,28 @@
         src="https://github.com/yasniel1408/yasniel1408/blob/main/perfil.png"
       /> 
   </a>
-  <h1>Yasniel Fajardo Egues</h1>
+  <!--
+      <h1>Yasniel Fajardo Egues</h1>
+  -->
   <h3>FullStack Web Developer 👩🏻‍💻</h3>
 </div>
 
 <p align="center">
-  <a href="https://m.facebook.com/yasniel.fajardoegues" target="blank" style='margin-right:4px'>
-   <img align="center" style="color: blue !important;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yasniel1408" height="28px" width="28px" />
- </a>
-  <a href="https://www.youtube.com/channel/UC6rabpoA7P6eaGs9MFNX7aQ" target="blank" style='margin-right:4px'>
-   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="yasniel1408" height="28px" width="28px" />
- </a>
- <a href="https://www.linkedin.com/in/yasniel-fajardo-egues-65b228181/" target="blank">
-   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yasniel1408" height="28px" width="28px" />
- </a>
- <a href="https://twitter.com/yasnielfajardo" target="blank">
-   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yasniel1408" height="28px" width="28px" />
- </a>
+  <a href="https://twitter.com/yasnielfajardo" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yasniel-fajardo-egues-65b228181" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/yasniel.fajardoegues" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC6rabpoA7P6eaGs9MFNX7aQ" target="_blank">
+    <img src="https://img.shields.io/badge/youtube-%231877F2.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="Youtube"/>
+  </a>
 </p>
 
+<!--
 <p align="center">
   <a href="https://github.com/yasniel1408?tab=followers">
     <img
@@ -50,6 +53,7 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UC6rabpoA7P6eaGs9MFNX7aQ?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 </p>
+-->
 
 # ¡Hello! My name is Yasniel Fajardo Egues <img width="40" height="30" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" />😃
 
