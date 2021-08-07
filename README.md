@@ -85,7 +85,7 @@ I am a Full Stack Semi Senior Developer in Javascript. I like to create fast web
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/heroku_icon_130912.png" />
     <img width="40px" src="https://assets.pipedream.net/s.v0/app_1xohRm/logo/orig" />
 </p>
-<!-- <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasniel1408&layout=compact" /> -->
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasniel1408&layout=compact" />
 
 <h1>Soft Skills</h1>
 Willingness to learn, communication,
