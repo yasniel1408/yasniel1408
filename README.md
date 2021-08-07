@@ -62,25 +62,37 @@
 I am a Full Stack Semi Senior Developer in Javascript. I like to create fast web applications with [React](https://es.reactjs.org/) especially on the frontend and Express for the backend, easy to use and built with best practices. I am not perfect but every day I do my best to improve myself as a software engineer.
 
 <h1>Skills</h1>
-<p align="center">
+<h3>Languages</h3>
+<p align="left">
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_html_icon_130541.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_css_icon_130661.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/sass_original_logo_icon_146350.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_typescript_official_icon_130107.png" />
+</p>
+<h3>Frontend</h3>
+<p align="left">
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_logo_icon_146374.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/redux_original_logo_icon_146365.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/sass_original_logo_icon_146350.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/555/PNG/128/wordpress_icon-icons.com_53600.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/bootstrap_plain_logo_icon_146619.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/jquery_plain_wordmark_logo_icon_146445.png" />
+</p>
+<h3>Backend</h3>
+<p align="left">
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/socketio_logo_icon_169741.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_node_icon_130301.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/expressjs_logo_icon_169185.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_typescript_official_icon_130107.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/555/PNG/128/wordpress_icon-icons.com_53600.png" />
+    <img width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwc-B3R3nB09mt9MGGHqqP9rwI6tdtiFR2r4x6FMKu03Ifu100Gnp0AzGWNUsHDOvl0r8&usqp=CAU" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/laravel_plain_logo_icon_146438.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/postgresql_plain_wordmark_logo_icon_146390.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mysql_original_wordmark_logo_icon_146417.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_sqlite_icon_130153.png" />
+</p>
+<h3>Others</h3> 
+<p align="left">
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_git_icon_130581.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/heroku_icon_130912.png" />
     <img width="40px" src="https://assets.pipedream.net/s.v0/app_1xohRm/logo/orig" />
