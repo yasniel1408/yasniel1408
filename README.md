@@ -59,7 +59,7 @@
 
 ## Computer Engineer, University of Cienfuegos Carlos Rafael Rodríguez, Cuba (2014-2019)
 
-I am a Full Stack Semi Senior Developer in Javascript. I like to create fast web applications with [React](https://es.reactjs.org/) especially on the frontend and Express for the backend, easy to use and built with best practices. I am not perfect but every day I do my best to improve myself as a software engineer.
+I am a Full Stack Developer in Javascript. I like to create fast web applications with [React](https://es.reactjs.org/) especially on the frontend and Express for the backend, easy to use and built with best practices. I am not perfect but every day I do my best to improve myself as a software engineer.
 
 <h1>Skills</h1>
 <h3>Languages</h3>
@@ -70,6 +70,7 @@ I am a Full Stack Semi Senior Developer in Javascript. I like to create fast web
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/sass_original_logo_icon_146350.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_typescript_official_icon_130107.png" />
+    <img width="40px" src="https://icon-icons.com/icon/file-type-graphql/130564" />
 </p>
 <h3>Frontend</h3>
 <p align="left">
