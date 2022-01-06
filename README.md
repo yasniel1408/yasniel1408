@@ -86,7 +86,6 @@ I am a Full Stack Developer in Javascript. I like to create fast web application
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_node_icon_130301.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/expressjs_logo_icon_169185.png" />
     <img width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwc-B3R3nB09mt9MGGHqqP9rwI6tdtiFR2r4x6FMKu03Ifu100Gnp0AzGWNUsHDOvl0r8&usqp=CAU" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/laravel_plain_logo_icon_146438.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/postgresql_plain_wordmark_logo_icon_146390.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mysql_original_wordmark_logo_icon_146417.png" />
