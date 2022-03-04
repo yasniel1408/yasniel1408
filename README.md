@@ -96,6 +96,7 @@ I am a Full Stack Developer in Javascript. I like to create fast web application
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_git_icon_130581.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/heroku_icon_130912.png" />
     <img width="40px" src="https://assets.pipedream.net/s.v0/app_1xohRm/logo/orig" />
+    <img width="40px" src="https://icon-icons.com/icon/atlassian-jira-logo/170511" />
 </p>
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasniel1408&layout=compact" />
 
