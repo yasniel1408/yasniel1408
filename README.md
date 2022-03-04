@@ -75,6 +75,7 @@ I am a Full Stack Developer in Javascript. I like to create fast web application
 <h3>Frontend</h3>
 <p align="left">
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_logo_icon_146374.png" />
+     <img width="40px" height="40px" src="./ReactNative1200.jpg" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/redux_original_logo_icon_146365.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/555/PNG/128/wordpress_icon-icons.com_53600.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/bootstrap_plain_logo_icon_146619.png" />
@@ -86,6 +87,8 @@ I am a Full Stack Developer in Javascript. I like to create fast web application
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_node_icon_130301.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/expressjs_logo_icon_169185.png" />
     <img width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwc-B3R3nB09mt9MGGHqqP9rwI6tdtiFR2r4x6FMKu03Ifu100Gnp0AzGWNUsHDOvl0r8&usqp=CAU" />
+    <img width="40px" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" />
+    <img width="40px" src="https://th.bing.com/th/id/OIP.MP80y3y3GH_89jV9Y_JhSwHaHa?pid=ImgDet&rs=1" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/postgresql_plain_wordmark_logo_icon_146390.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mysql_original_wordmark_logo_icon_146417.png" />
@@ -96,7 +99,10 @@ I am a Full Stack Developer in Javascript. I like to create fast web application
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_git_icon_130581.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/heroku_icon_130912.png" />
     <img width="40px" src="https://assets.pipedream.net/s.v0/app_1xohRm/logo/orig" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
+     <img width="80px" src="https://th.bing.com/th/id/R.79309b751fc01736ea1cc3d786b25651?rik=rurHNX620eLm%2fA&pid=ImgRaw&r=0" />
+    <img width="40px" src="https://clipground.com/images/bitbucket-logo-9.png" />
+     <img width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
+     <img width="40px" src="https://th.bing.com/th/id/R.73c9e9a2cc4bfc0712656cc096add173?rik=peveyYoxX7Bmuw&pid=ImgRaw&r=0" />
 </p>
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasniel1408&layout=compact" />
 
