@@ -99,10 +99,11 @@ I am a Full Stack Developer in Javascript. I like to create fast web application
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_git_icon_130581.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/heroku_icon_130912.png" />
     <img width="40px" src="https://assets.pipedream.net/s.v0/app_1xohRm/logo/orig" />
-     <img width="74px" src="https://th.bing.com/th/id/R.79309b751fc01736ea1cc3d786b25651?rik=rurHNX620eLm%2fA&pid=ImgRaw&r=0" />
+    <img width="40px" src="https://th.bing.com/th/id/R.73c9e9a2cc4bfc0712656cc096add173?rik=peveyYoxX7Bmuw&pid=ImgRaw&r=0" />
     <img width="40px" src="https://clipground.com/images/bitbucket-logo-9.png" />
-     <img width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
-     <img width="40px" src="https://th.bing.com/th/id/R.73c9e9a2cc4bfc0712656cc096add173?rik=peveyYoxX7Bmuw&pid=ImgRaw&r=0" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
+    <img width="75px" height="40px" src="https://th.bing.com/th/id/R.79309b751fc01736ea1cc3d786b25651?rik=rurHNX620eLm%2fA&pid=ImgRaw&r=0" />
+   
 </p>
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasniel1408&layout=compact" />
 
