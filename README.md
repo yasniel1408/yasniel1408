@@ -9,7 +9,7 @@
       <img
         width="80"
         height="80"
-        src="https://media-exp1.licdn.com/dms/image/C4E03AQEMHV0rNJZgYw/profile-displayphoto-shrink_800_800/0/1640872277410?e=1651708800&v=beta&t=vw-yH2Ky7_wK27I0k8WCn7lhnQpD-t1bbK-QlscHXMk"
+        src="https://github.com/yasniel1408/yasniel1408/blob/main/mifoto.png"
       /> 
   </a>
   <!--
