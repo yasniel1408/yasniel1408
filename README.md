@@ -4,7 +4,7 @@
       <img
         width="310"
         height="65"
-        src="https://github.com/yasniel1408/yasniel1408/blob/main/mifoto.png"/>
+        src="https://github.com/yasniel1408/yasniel1408/blob/main/logot.png"/>
     </p>
       <img
         width="80"
