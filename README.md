@@ -71,7 +71,7 @@ I am a Full Stack Developer in Javascript. I like to create fast web application
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_typescript_official_icon_130107.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_graphql_icon_130564.png" />
-    <img width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_official_logo_icon_169092.png" />
+    <img width="90px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_official_logo_icon_169092.png" />
 </p>
 <h3>Frontend</h3>
 <p align="left">
