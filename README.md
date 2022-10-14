@@ -87,7 +87,7 @@ I am a Full Stack Developer in Javascript. I like to create fast web application
 <p align="left">
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/socketio_logo_icon_169741.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_node_icon_130301.png" />
-    <img width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/expressjs_logo_icon_169185.png" />
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/expressjs_logo_icon_169185.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nest_middleware_ts_icon_130362.png" />
     <img width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwc-B3R3nB09mt9MGGHqqP9rwI6tdtiFR2r4x6FMKu03Ifu100Gnp0AzGWNUsHDOvl0r8&usqp=CAU" />
     <img width="40px" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" />
