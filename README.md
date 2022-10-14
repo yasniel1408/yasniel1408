@@ -75,7 +75,7 @@ I am a Full Stack Developer in Javascript. I like to create fast web application
 <h3>Frontend</h3>
 <p align="left">
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_logo_icon_146374.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/angular_original_logo_icon_146374.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" />
      <img width="40px" height="40px" src="./ReactNative1200.jpg" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/redux_original_logo_icon_146365.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/555/PNG/128/wordpress_icon-icons.com_53600.png" />
