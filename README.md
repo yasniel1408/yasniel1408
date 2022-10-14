@@ -106,7 +106,8 @@ I am a Full Stack Developer in Javascript. I like to create fast web application
     <img width="40px" src="https://clipground.com/images/bitbucket-logo-9.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
     <img width="75px" height="40px" src="https://th.bing.com/th/id/R.79309b751fc01736ea1cc3d786b25651?rik=rurHNX620eLm%2fA&pid=ImgRaw&r=0" />
-  <img width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_cloud_logo_icon_171058.png" />
+    <img width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_cloud_logo_icon_171058.png" />
+   <img width="40px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" />
    
 </p>
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasniel1408&layout=compact" />
