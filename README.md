@@ -59,7 +59,7 @@
 
 ## Computer Engineer, University of Cienfuegos Carlos Rafael Rodríguez, Cuba (2014-2019)
 
-I am a Full Stack Developer in Javascript. I like to create fast web applications with [React](https://es.reactjs.org/) especially on the frontend and Express for the backend, easy to use and built with best practices. I am not perfect but every day I do my best to improve myself as a software engineer.
+I am a Full Stack Developer in Javascript. I like to create fast web applications with [React](https://es.reactjs.org/) especially on the frontend and Node for the backend, easy to use and built with best practices. Every day I do my best to improve myself as a software engineer.
 
 <h1>Skills</h1>
 <h3>Languages</h3>
@@ -108,7 +108,7 @@ I am a Full Stack Developer in Javascript. I like to create fast web application
     <img width="75px" height="40px" src="https://th.bing.com/th/id/R.79309b751fc01736ea1cc3d786b25651?rik=rurHNX620eLm%2fA&pid=ImgRaw&r=0" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_logo_icon_146503.png" />
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_cloud_logo_icon_171058.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" />
+    <!-- <img width="40px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" /> -->
   
    <img width="40px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png" />
    <img width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png" />
