@@ -61,6 +61,9 @@
 
 I am a Full Stack Developer in Javascript. I like to create fast web applications with [React](https://es.reactjs.org/) especially on the frontend and Node for the backend, easy to use and built with best practices. Every day I do my best to improve myself as a software engineer.
 
+<br>
+<br>
+
 <h1>Skills</h1>
 <h3>Languages</h3>
 <p align="left">
@@ -116,6 +119,9 @@ I am a Full Stack Developer in Javascript. I like to create fast web application
 </p>
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasniel1408&layout=compact" />
 
+<br>
+<br>
+
 <h1>Soft Skills</h1>
 Willingness to learn, communication,
 solution-oriented thinking, leadership skills,
@@ -123,6 +129,25 @@ adaptability, critical thinking, responsibility,
 accessibility and willingness to help,
 friendly, alignment with vision,
 good attitude.
+
+<br>
+<br>
+
+<h1>Recommendations</h1>
+https://www.linkedin.com/in/yasniel-fajardo-egues-65b228181/details/recommendations
+
+<br>
+<br>
+
+<h1>Github</h1>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yasniel1408&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yasniel1408&theme=tokyonight" />
+</p>
+
+<br>
+<br>
 
 <h1>Latest published articles</h1>
 
@@ -132,7 +157,31 @@ good attitude.
 - [React-Helmet para el SEO](https://infsoft.home.blog/2021/05/30/react-helmet-para-el-seo/)
 - [i18next](infsoft.home.blog/2021/02/25/i18next/)
 
-<!-- <p align="center">
+<p align="center">
+  <a href='https://infsoft.home.blog/2021/07/31/api-con-graphql-y-express/' target='_blank'>
+    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2021/07/descarga.jpg' />
+  </a>
+  <a href='https://infsoft.home.blog/2021/07/26/eslint-prettier-vscode/' target='_blank'>
+    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2021/07/descarga.png' />
+  </a>
+  <a href='https://infsoft.home.blog/2022/06/28/esto-debes-saber-si-eres-javascript-developers/' target='_blank'>
+    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2020/06/javascript.png' />
+  </a>
+  <a href='https://infsoft.home.blog/2022/06/30/como-funciona-react-como-funciona-virtual-dom-en-react/' target='_blank'>
+    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2020/07/react-e1595346789464.png' />
+  </a>
+  <a href='https://infsoft.home.blog/2022/07/01/que-es-redux-y-como-funciona-con-react/' target='_blank'>
+    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2020/09/reduxlogo-e1599603239393.png' />
+  </a>
+  <a href='https://infsoft.home.blog/2022/07/03/aplicar-solid-a-react/' target='_blank'>
+    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2022/07/react-folder-structure.png' />
+  </a>
+  <a href='https://infsoft.home.blog/2022/07/30/patrones-en-react-avanzado/' target='_blank'>
+    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2022/07/react-native-735x400-1.png' />
+  </a>
+  <a href='https://infsoft.home.blog/2022/11/17/de-monolitos-a-microservicios-evolucion/' target='_blank'>
+    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2022/11/1wr1nuigbisx8q9kssk8fjq-622616235-e1668777707236.jpeg' />
+  </a>
   <a href='https://infsoft.home.blog/2021/07/06/como-crear-un-pull-requests-con-forks/' target='_blank'>
     <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2021/06/images.png' />
   </a>
@@ -148,9 +197,4 @@ good attitude.
   <a href='https://infsoft.home.blog/2021/02/25/i18next/' target='_blank'>
     <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2021/02/1_yie_inht8dpbjgaz6iruaq-e1614282858895.jpeg' />
   </a>
-</p> -->
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yasniel1408&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yasniel1408&theme=tokyonight" />
 </p>
