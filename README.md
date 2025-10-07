@@ -158,6 +158,13 @@ https://www.linkedin.com/in/yasniel-fajardo-egues-65b228181/details/recommendati
 - [i18next](infsoft.home.blog/2021/02/25/i18next/)
 
 <p align="center">
+  <a href='https://infsoft.home.blog/2024/06/08/hexagonal-architecture-desenmascarando-al-hexagono/' target='_blank'>
+    <img width='120px' height="65px" src='https://infsoft.home.blog/wp-content/uploads/2024/06/8b2895e2-3c9b-4dc8-a5a5-aba6d2fcb555.webp' />
+  </a>
+  <a href='https://infsoft.home.blog/2024/06/03/el-diseno-orientado-al-dominio-ddd-la-clave-para-gestionar-la-complejidad-en-el-desarrollo-de-software/' target='_blank'>
+    <img width='120px' height="65px" src='https://infsoft.home.blog/wp-content/uploads/2024/06/dallc2b7e-2024-06-03-21.35.10-create-a-visually-appealing-horizontal-image-for-a-social-media-post-about-domain-driven-design-ddd-with-purple-and-violet-colors.-the-image-should-.webp' />
+  </a>
+  
   <a href='https://infsoft.home.blog/2023/12/14/emular-un-pubsub-en-local-para-hacer-pruebas/' target='_blank'>
     <img width='120px' height="65px" src='https://infsoft.home.blog/wp-content/uploads/2023/12/node.js-google-cloud-pub-sub.jpg' />
   </a>
