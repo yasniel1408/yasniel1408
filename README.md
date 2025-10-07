@@ -158,6 +158,12 @@ https://www.linkedin.com/in/yasniel-fajardo-egues-65b228181/details/recommendati
 - [i18next](infsoft.home.blog/2021/02/25/i18next/)
 
 <p align="center">
+  <a href='https://infsoft.home.blog/2023/12/14/emular-un-pubsub-en-local-para-hacer-pruebas/' target='_blank'>
+    <img width='120px' height="65px" src='https://infsoft.home.blog/wp-content/uploads/2023/12/node.js-google-cloud-pub-sub.jpg' />
+  </a>
+  <a href='https://infsoft.home.blog/2023/11/10/abortcontroller-en-react-con-axios-gestion-de-solicitudes-canceladas/' target='_blank'>
+    <img width='120px' height="65px" src='https://infsoft.home.blog/wp-content/uploads/2023/11/54a473ac-copia.png' />
+  </a>
   <a href='https://infsoft.home.blog/2023/11/10/carga-de-archivos-a-aws-s3-con-node-js-y-express/' target='_blank'>
     <img width='120px' height="65px" src='https://infsoft.home.blog/wp-content/uploads/2023/11/1_b9ciorxdrohvtdmouqa1_a.png' />
   </a>
