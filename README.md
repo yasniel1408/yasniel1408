@@ -68,6 +68,19 @@ Soy **Ingeniero en Ciencias Informáticas** (UCF, 2014–2019). Full Stack y Arq
 
 ---
 
+# 🌱 Soft Skills
+Liderazgo técnico, pensamiento crítico, comunicación clara, visión de producto, adaptabilidad y aprendizaje continuo.
+
+---
+
+# 📈 GitHub Analytics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yasniel1408&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yasniel1408&theme=tokyonight" />
+</p>
+
+---
+
 # 📸 Últimas 20 publicaciones de mi blog
 <p align="center">
   <!-- click abre el blog; son las imágenes destacadas de las últimas entradas -->
@@ -131,19 +144,6 @@ Soy **Ingeniero en Ciencias Informáticas** (UCF, 2014–2019). Full Stack y Arq
   <a href="https://infsoft.home.blog/page/3/" target="_blank">
     <img width="160" src="https://infsoft.home.blog/wp-content/uploads/2022/07/react-folder-structure.png?w=400" alt="SOLID en React" />
   </a>
-</p>
-
----
-
-# 🌱 Soft Skills
-Liderazgo técnico, pensamiento crítico, comunicación clara, visión de producto, adaptabilidad y aprendizaje continuo.
-
----
-
-# 📈 GitHub Analytics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yasniel1408&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yasniel1408&theme=tokyonight" />
 </p>
 
 ---
