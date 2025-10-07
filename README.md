@@ -20,11 +20,6 @@
 # 👋 Hello World
 Soy **Ingeniero en Ciencias Informáticas** (UCF, 2014–2019). Full Stack y Arquitecto de Soluciones. Diseño ecosistemas **robustos, escalables y seguros**.
 
-- Frontend: React / Next.js
-- Backend: Node.js, NestJS, Hexagonal, DDD
-- Cloud: **AWS + GCP**
-- Arquitecturas distribuidas y eventos
-
 ---
 
 # 🛠️ Tech Stack
