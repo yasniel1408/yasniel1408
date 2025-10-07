@@ -158,6 +158,9 @@ https://www.linkedin.com/in/yasniel-fajardo-egues-65b228181/details/recommendati
 - [i18next](infsoft.home.blog/2021/02/25/i18next/)
 
 <p align="center">
+  <a href='https://infsoft.home.blog/2023/11/10/carga-de-archivos-a-aws-s3-con-node-js-y-express/' target='_blank'>
+    <img width='120px' height="65px" src='https://infsoft.home.blog/wp-content/uploads/2023/11/1_b9ciorxdrohvtdmouqa1_a.png' />
+  </a>
   <a href='https://infsoft.home.blog/2021/07/31/api-con-graphql-y-express/' target='_blank'>
     <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2021/07/descarga.jpg' />
   </a>
