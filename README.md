@@ -1,208 +1,156 @@
-<div align="center" >
-  <a class="site-logo-link" href="https://infsoft.home.blog/">
-      <img
-        width="80"
-        height="80"
-        src="https://github.com/yasniel1408/yasniel1408/blob/main/mifoto.png"
-      /> 
+<div align="center">
+  <a href="https://infsoft.home.blog/">
+    <img width="100" height="100" src="https://github.com/yasniel1408/yasniel1408/blob/main/mifoto.png" />
   </a>
-  <h1>Yasniel Fajardo Egues</h1>
-  <h3>Technical Lead | Solutions Architect | ☁️ AWS & GCP | 🤖 AI Innovator</h3>
+
+  <h1>⚡ Yasniel Fajardo Egues ⚡</h1>
+  <h3>Technical Lead • Solutions Architect • ☁️ AWS & GCP • 🤖 AI Innovator</h3>
+  <a href="https://www.yasniel.com/" target="_blank"><b>🌐 Portafolio → yasniel.com</b></a>
 </div>
 
 <p align="center">
-  <a href="https://twitter.com/yasnielfajardo" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yasniel-fajardo-egues-65b228181" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/yasniel.fajardoegues" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UC6rabpoA7P6eaGs9MFNX7aQ" target="_blank">
-    <img src="https://img.shields.io/badge/youtube-%231877F2.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="Youtube"/>
-  </a>
+  <a href="https://twitter.com/yasnielfajardo"><img src="https://img.shields.io/badge/Twitter-071A2C?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yasniel-fajardo-egues-65b228181"><img src="https://img.shields.io/badge/LinkedIn-071A2C?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UC6rabpoA7P6eaGs9MFNX7aQ"><img src="https://img.shields.io/badge/YouTube-071A2C?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.facebook.com/yasniel.fajardoegues"><img src="https://img.shields.io/badge/Facebook-071A2C?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
-<!--
+---
+
+# 👋 Hello World
+Soy **Ingeniero en Ciencias Informáticas** (UCF, 2014–2019). Full Stack y Arquitecto de Soluciones. Diseño ecosistemas **robustos, escalables y seguros**.
+
+- Frontend: React / Next.js
+- Backend: Node.js, NestJS, Hexagonal, DDD
+- Cloud: **AWS + GCP**
+- Arquitecturas distribuidas y eventos
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+<p align="left">
+  <img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_html_icon_130541.png" />
+  <img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_css_icon_130661.png" />
+  <img width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png" />
+  <img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_typescript_official_icon_130107.png" />
+  <img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_graphql_icon_130564.png" />
+  <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_wordmark_logo_icon_146459.png" />
+</p>
+
+### Frontend
+<p align="left">
+  <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_logo_icon_146374.png" />
+  <img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" />
+  <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/redux_original_logo_icon_146365.png" />
+  <img width="40" src="https://cdn.icon-icons.com/icons2/555/PNG/128/wordpress_icon-icons.com_53600.png" />
+  <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/bootstrap_plain_logo_icon_146619.png" />
+</p>
+
+### Backend & Databases
+<p align="left">
+  <img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_node_icon_130301.png" />
+  <img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nest_middleware_ts_icon_130362.png" />
+  <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" />
+  <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/postgresql_plain_wordmark_logo_icon_146390.png" />
+  <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mysql_original_wordmark_logo_icon_146417.png" />
+</p>
+
+### DevOps & Cloud
+<p align="left">
+  <img width="40" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" />
+  <img width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_cloud_logo_icon_171058.png" />
+  <img width="40" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png" />
+  <img width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png" />
+  <img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_git_icon_130581.png" />
+</p>
+
+---
+
+# 📸 Últimas 20 publicaciones de mi blog
 <p align="center">
-  <a href="https://github.com/yasniel1408?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/yasniel1408?label=Followers&logo=GitHub&style=for-the-badge"
-      alt="GitHub badge"
-    />
+  <!-- click abre el blog; son las imágenes destacadas de las últimas entradas -->
+  <a href="https://infsoft.home.blog/" target="_blank">
+    <img width="160" src="https://i0.wp.com/infsoft.home.blog/wp-content/uploads/2025/04/chatgpt-image-apr-3-2025-08_50_44-pm.png?resize=1100%2C733&ssl=1" alt="Event Sourcing" />
   </a>
-  <a href="http://twitter.com/yasnielfajardo">
-    <img
-      src="https://img.shields.io/twitter/follow/yasnielfajardo?label=Twitter&logo=twitter&style=for-the-badge"
-    />
+  <a href="https://infsoft.home.blog/" target="_blank">
+    <img width="160" src="https://infsoft.home.blog/wp-content/uploads/2024/07/image.webp?w=1100" alt="EDA" />
   </a>
-  <a href="https://discord.gg/Z6fazCpH">
-    <img src="https://img.shields.io/discord/756262628333977704?logo=discord&style=for-the-badge" />
+  <a href="https://infsoft.home.blog/" target="_blank">
+    <img width="160" src="https://infsoft.home.blog/wp-content/uploads/2024/06/image.webp?w=1100" alt="Clean Architecture" />
   </a>
-  <a href="https://www.youtube.com/channel/UC6rabpoA7P6eaGs9MFNX7aQ">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC6rabpoA7P6eaGs9MFNX7aQ?label=YouTube&logo=YouTube&style=for-the-badge" />
+  <a href="https://infsoft.home.blog/" target="_blank">
+    <img width="160" src="https://infsoft.home.blog/wp-content/uploads/2024/06/8b2895e2-3c9b-4dc8-a5a5-aba6d2fcb555.webp?w=1100" alt="Hexagonal Architecture" />
+  </a>
+  <a href="https://infsoft.home.blog/" target="_blank">
+    <img width="160" src="https://infsoft.home.blog/wp-content/uploads/2024/06/dallc2b7e-2024-06-03-21.35.10-create-a-visually-appealing-horizontal-image-for-a-social-media-post-about-domain-driven-design-ddd-with-purple-and-violet-colors.-the-image-should-.webp?w=1100" alt="DDD" />
+  </a>
+  <a href="https://infsoft.home.blog/" target="_blank">
+    <img width="160" src="https://infsoft.home.blog/wp-content/uploads/2023/12/captura-de-pantalla-2023-12-26-a-las-7.38.39e280afp.m.png?w=1100" alt="Hexagonal y DDD con React" />
+  </a>
+  <a href="https://infsoft.home.blog/" target="_blank">
+    <img width="160" src="https://infsoft.home.blog/wp-content/uploads/2023/12/node.js-google-cloud-pub-sub.jpg?w=1100" alt="Pub/Sub local" />
+  </a>
+  <a href="https://infsoft.home.blog/" target="_blank">
+    <img width="160" src="https://infsoft.home.blog/wp-content/uploads/2023/11/54a473ac-copia.png?w=1100" alt="AbortController + Axios" />
+  </a>
+  <a href="https://infsoft.home.blog/" target="_blank">
+    <img width="160" src="https://infsoft.home.blog/wp-content/uploads/2023/11/axios-retry.png?w=1100" alt="Axios Retry" />
+  </a>
+  <a href="https://infsoft.home.blog/" target="_blank">
+    <img width="160" src="https://infsoft.home.blog/wp-content/uploads/2023/11/1_b9ciorxdrohvtdmouqa1_a.png?w=640" alt="S3 Upload" />
+  </a>
+  <a href="https://infsoft.home.blog/page/2/" target="_blank">
+    <img width="160" src="https://infsoft.home.blog/wp-content/uploads/2023/08/skaffold.jpg?w=1100" alt="Skaffold" />
+  </a>
+  <a href="https://infsoft.home.blog/page/2/" target="_blank">
+    <img width="160" src="https://infsoft.home.blog/wp-content/uploads/2023/08/captura-de-pantalla-2023-08-20-a-las-17.03.46.png?w=1100" alt="Abstract Factory" />
+  </a>
+  <a href="https://infsoft.home.blog/page/2/" target="_blank">
+    <img width="160" src="https://infsoft.home.blog/wp-content/uploads/2023/08/captura-de-pantalla-2023-08-15-a-las-19.51.05.png?w=1100" alt="Factory Method" />
+  </a>
+  <a href="https://infsoft.home.blog/page/2/" target="_blank">
+    <img width="160" src="https://infsoft.home.blog/wp-content/uploads/2023/08/captura-de-pantalla-2023-08-15-a-las-19.27.05.png?w=1100" alt="Qué es Cloud" />
+  </a>
+  <a href="https://infsoft.home.blog/page/2/" target="_blank">
+    <img width="160" src="https://infsoft.home.blog/wp-content/uploads/2023/08/captura-de-pantalla-2023-08-07-a-las-21.34.44.png?w=665" alt="Errores en microservicios" />
+  </a>
+  <a href="https://infsoft.home.blog/page/2/" target="_blank">
+    <img width="160" src="https://infsoft.home.blog/wp-content/uploads/2023/06/captura-de-pantalla-2023-06-25-a-las-17.25.13.png?w=1100" alt="Acoplamiento" />
+  </a>
+  <a href="https://infsoft.home.blog/page/2/" target="_blank">
+    <img width="160" src="https://infsoft.home.blog/wp-content/uploads/2023/05/git-workflow-1-3932299259-e1684761212382.png?w=1100" alt="Git Workflows" />
+  </a>
+  <a href="https://infsoft.home.blog/page/2/" target="_blank">
+    <img width="160" src="https://infsoft.home.blog/wp-content/uploads/2023/05/captura-de-pantalla-2023-05-21-a-las-22.54.41-1409455392-e1684720686598.png?w=1100" alt="Alta cohesión" />
+  </a>
+  <a href="https://infsoft.home.blog/page/2/" target="_blank">
+    <img width="160" src="https://infsoft.home.blog/wp-content/uploads/2022/11/1wr1nuigbisx8q9kssk8fjq-622616235-e1668777707236.jpeg?w=509" alt="Monolito → Microservicios" />
+  </a>
+  <a href="https://infsoft.home.blog/page/3/" target="_blank">
+    <img width="160" src="https://infsoft.home.blog/wp-content/uploads/2022/07/react-folder-structure.png?w=400" alt="SOLID en React" />
   </a>
 </p>
--->
 
-# ¡Hello! My name is Yasniel Fajardo Egues <img width="40" height="30" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" />😃
+---
 
-## Computer Engineer, University of Cienfuegos Carlos Rafael Rodríguez, Cuba (2014-2019)
+# 🌱 Soft Skills
+Liderazgo técnico, pensamiento crítico, comunicación clara, visión de producto, adaptabilidad y aprendizaje continuo.
 
-I am a Full Stack Developer in Javascript. I like to create fast web applications with [React](https://es.reactjs.org/) especially on the frontend and Node for the backend, easy to use and built with best practices. Every day I do my best to improve myself as a software engineer.
+---
 
-<br>
-<br>
-
-<h1>Skills</h1>
-<h3>Languages</h3>
-<p align="left">
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_html_icon_130541.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_css_icon_130661.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/sass_original_logo_icon_146350.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_typescript_official_icon_130107.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_graphql_icon_130564.png" />
-</p>
-<h3>Frontend</h3>
-<p align="left">
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_logo_icon_146374.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" />
-     <img width="40px" height="40px" src="./ReactNative1200.jpg" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/redux_original_logo_icon_146365.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/555/PNG/128/wordpress_icon-icons.com_53600.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/bootstrap_plain_logo_icon_146619.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/jquery_plain_wordmark_logo_icon_146445.png" />
-</p>
-<h3>Backend</h3>
-<p align="left">
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/socketio_logo_icon_169741.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_node_icon_130301.png" />
-    <img width="50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/expressjs_logo_icon_169185.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nest_middleware_ts_icon_130362.png" />
-    <img width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwc-B3R3nB09mt9MGGHqqP9rwI6tdtiFR2r4x6FMKu03Ifu100Gnp0AzGWNUsHDOvl0r8&usqp=CAU" />
-    <img width="40px" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" />
-    <img width="40px" src="https://th.bing.com/th/id/OIP.MP80y3y3GH_89jV9Y_JhSwHaHa?pid=ImgDet&rs=1" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/postgresql_plain_wordmark_logo_icon_146390.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mysql_original_wordmark_logo_icon_146417.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_sqlite_icon_130153.png" />
-</p>
-<h3>Others</h3> 
-<p align="left">
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_git_icon_130581.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/heroku_icon_130912.png" />
-    <img width="40px" src="https://assets.pipedream.net/s.v0/app_1xohRm/logo/orig" />
-    <!-- <img width="40px" src="https://th.bing.com/th/id/R.73c9e9a2cc4bfc0712656cc096add173?rik=peveyYoxX7Bmuw&pid=ImgRaw&r=0" /> -->
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Trello_icon-icons.com_66775.png" />
-    <img width="40px" src="https://clipground.com/images/bitbucket-logo-9.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
-    <img width="75px" height="40px" src="https://th.bing.com/th/id/R.79309b751fc01736ea1cc3d786b25651?rik=rurHNX620eLm%2fA&pid=ImgRaw&r=0" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_logo_icon_146503.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_cloud_logo_icon_171058.png" />
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" />
-  
-   <img width="40px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png" />
-   <img width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png" />
-   
-</p>
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasniel1408&layout=compact" />
-
-<br>
-<br>
-
-<h1>Soft Skills</h1>
-Willingness to learn, communication,
-solution-oriented thinking, leadership skills,
-adaptability, critical thinking, responsibility,
-accessibility and willingness to help,
-friendly, alignment with vision,
-good attitude.
-
-<br>
-<br>
-
-<h1>Recommendations</h1>
-https://www.linkedin.com/in/yasniel-fajardo-egues-65b228181/details/recommendations
-
-<br>
-<br>
-
-<h1>Github</h1>
-
+# 📈 GitHub Analytics
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yasniel1408&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yasniel1408&theme=tokyonight" />
 </p>
 
-<br>
-<br>
+---
 
-<h1>Latest published articles</h1>
-
-- [Cómo crear un pull requests con forks](https://infsoft.home.blog/2021/07/06/como-crear-un-pull-requests-con-forks/)
-- [React hook form](https://infsoft.home.blog/2021/06/13/react-hook-form/)
-- [React useContext API](infsoft.home.blog/2021/06/08/react-usecontext-api/)
-- [React-Helmet para el SEO](https://infsoft.home.blog/2021/05/30/react-helmet-para-el-seo/)
-- [i18next](infsoft.home.blog/2021/02/25/i18next/)
-
-<p align="center">
-  <a href='https://infsoft.home.blog/2024/06/08/hexagonal-architecture-desenmascarando-al-hexagono/' target='_blank'>
-    <img width='120px' height="65px" src='https://infsoft.home.blog/wp-content/uploads/2024/06/8b2895e2-3c9b-4dc8-a5a5-aba6d2fcb555.webp' />
-  </a>
-  <a href='https://infsoft.home.blog/2024/06/03/el-diseno-orientado-al-dominio-ddd-la-clave-para-gestionar-la-complejidad-en-el-desarrollo-de-software/' target='_blank'>
-    <img width='120px' height="65px" src='https://infsoft.home.blog/wp-content/uploads/2024/06/dallc2b7e-2024-06-03-21.35.10-create-a-visually-appealing-horizontal-image-for-a-social-media-post-about-domain-driven-design-ddd-with-purple-and-violet-colors.-the-image-should-.webp' />
-  </a>
-  
-  <a href='https://infsoft.home.blog/2023/12/14/emular-un-pubsub-en-local-para-hacer-pruebas/' target='_blank'>
-    <img width='120px' height="65px" src='https://infsoft.home.blog/wp-content/uploads/2023/12/node.js-google-cloud-pub-sub.jpg' />
-  </a>
-  <a href='https://infsoft.home.blog/2023/11/10/abortcontroller-en-react-con-axios-gestion-de-solicitudes-canceladas/' target='_blank'>
-    <img width='120px' height="65px" src='https://infsoft.home.blog/wp-content/uploads/2023/11/54a473ac-copia.png' />
-  </a>
-  <a href='https://infsoft.home.blog/2023/11/10/carga-de-archivos-a-aws-s3-con-node-js-y-express/' target='_blank'>
-    <img width='120px' height="65px" src='https://infsoft.home.blog/wp-content/uploads/2023/11/1_b9ciorxdrohvtdmouqa1_a.png' />
-  </a>
-  <a href='https://infsoft.home.blog/2021/07/31/api-con-graphql-y-express/' target='_blank'>
-    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2021/07/descarga.jpg' />
-  </a>
-  <a href='https://infsoft.home.blog/2021/07/26/eslint-prettier-vscode/' target='_blank'>
-    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2021/07/descarga.png' />
-  </a>
-  <a href='https://infsoft.home.blog/2022/06/28/esto-debes-saber-si-eres-javascript-developers/' target='_blank'>
-    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2020/06/javascript.png' />
-  </a>
-  <a href='https://infsoft.home.blog/2022/06/30/como-funciona-react-como-funciona-virtual-dom-en-react/' target='_blank'>
-    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2020/07/react-e1595346789464.png' />
-  </a>
-  <a href='https://infsoft.home.blog/2022/07/01/que-es-redux-y-como-funciona-con-react/' target='_blank'>
-    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2020/09/reduxlogo-e1599603239393.png' />
-  </a>
-  <a href='https://infsoft.home.blog/2022/07/03/aplicar-solid-a-react/' target='_blank'>
-    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2022/07/react-folder-structure.png' />
-  </a>
-  <a href='https://infsoft.home.blog/2022/07/30/patrones-en-react-avanzado/' target='_blank'>
-    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2022/07/react-native-735x400-1.png' />
-  </a>
-  <a href='https://infsoft.home.blog/2022/11/17/de-monolitos-a-microservicios-evolucion/' target='_blank'>
-    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2022/11/1wr1nuigbisx8q9kssk8fjq-622616235-e1668777707236.jpeg' />
-  </a>
-  <a href='https://infsoft.home.blog/2021/07/06/como-crear-un-pull-requests-con-forks/' target='_blank'>
-    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2021/06/images.png' />
-  </a>
-  <a href='https://infsoft.home.blog/2021/06/13/react-hook-form/' target='_blank'>
-    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2021/06/descarga-1.png'/>
-  </a>
-  <a href='https://infsoft.home.blog/2021/06/08/react-usecontext-api/' target='_blank'>
-    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2021/06/descarga.png'/>
-  </a>
-  <a href='https://infsoft.home.blog/2021/05/30/react-helmet-para-el-seo/' target='_blank'>
-    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2021/05/1_bunljycxx8utkmkigewhqw-1.jpeg'/>
-  </a>
-  <a href='https://infsoft.home.blog/2021/02/25/i18next/' target='_blank'>
-    <img width='120px' height="65px" src='https://infsofthome.files.wordpress.com/2021/02/1_yie_inht8dpbjgaz6iruaq-e1614282858895.jpeg' />
-  </a>
-</p>
+# ✍️ Latest Articles
+- [Hexagonal Architecture: desenmascarando al hexágono](https://infsoft.home.blog/2024/06/08/hexagonal-architecture-desenmascarando-al-hexagono/)
+- [DDD: la clave para gestionar la complejidad](https://infsoft.home.blog/2024/06/03/el-diseno-orientado-al-dominio-ddd-la-clave-para-gestionar-la-complejidad-en-el-desarrollo-de-software/)
+- [Emular Pub/Sub en local para pruebas](https://infsoft.home.blog/2023/12/14/emular-un-pubsub-en-local-para-hacer-pruebas/)
+- [AbortController en React con Axios](https://infsoft.home.blog/2023/11/10/abortcontroller-en-react-con-axios-gestion-de-solicitudes-canceladas/)
+- [Carga de archivos a AWS S3 con Node.js](https://infsoft.home.blog/2023/11/10/carga-de-archivos-a-aws-s3-con-node-js-y-express/)
