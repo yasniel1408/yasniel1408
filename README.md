@@ -15,7 +15,7 @@
   <!--
       <h1>Yasniel Fajardo Egues</h1>
   -->
-  <h3>Technical Lead | Solutions Architect | ☁️ AWS & GCP | 🤖 AI Innovator | Java, Node, Go, React</h3>
+  <h3>Technical Lead | Solutions Architect | ☁️ AWS & GCP | 🤖 AI Innovator</h3>
 </div>
 
 <p align="center">
