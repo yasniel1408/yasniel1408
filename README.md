@@ -1,20 +1,12 @@
 <div align="center" >
   <a class="site-logo-link" href="https://infsoft.home.blog/">
-    <!-- <p>
-      <img
-        width="310"
-        height="65"
-        src="https://github.com/yasniel1408/yasniel1408/blob/main/logot.png"/>
-    </p> -->
       <img
         width="80"
         height="80"
         src="https://github.com/yasniel1408/yasniel1408/blob/main/mifoto.png"
       /> 
   </a>
-  <!--
-      <h1>Yasniel Fajardo Egues</h1>
-  -->
+  <h1>Yasniel Fajardo Egues</h1>
   <h3>Technical Lead | Solutions Architect | ☁️ AWS & GCP | 🤖 AI Innovator</h3>
 </div>
 
